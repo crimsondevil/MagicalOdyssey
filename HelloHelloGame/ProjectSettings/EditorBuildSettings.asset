@@ -1,0 +1,23 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!1045 &1
+EditorBuildSettings:
+  m_ObjectHideFlags: 0
+  serializedVersion: 2
+  m_Scenes:
+  - enabled: 0
+    path: Assets/Scenes/SampleScene.unity
+    guid: d1c3109bdb54ad54c8a2b2838528e640
+  - enabled: 1
+    path: Assets/UltimateDungeonPack/Scenes/Mage_Room_Demo.unity
+    guid: b94ee59f12f411f488e6df197429e012
+  - enabled: 1
+    path: Assets/Sun_Temple/Scenes/DemoScene.unity
+    guid: d8f213b28287d8b4dab42cf4a34f94e5
+  - enabled: 1
+    path: Assets/Scenes/Maze.unity
+    guid: 669df2291468fda4cb6ab6f241ae7c24
+  - enabled: 1
+    path: Assets/FinalBattleTemple/FInalBattleTempleScene.unity
+    guid: ff4ada887e733424bb6f86e0f4de83a8
+  m_configObjects: {}

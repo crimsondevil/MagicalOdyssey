@@ -1,0 +1,30 @@
+							
+Mr. Harry Potter
+4, Privet Drive,
+Little Whinging,
+Surrey
+
+
+Press enter to read the letter
+x
+Dear Mr. Potter,
+
+We are pleased to inform that you have been accepted at Hogwarts School of Witchcraft and Wizardry. Please find enclosed a list of all necessary books and equipments. Term begins on May 15th. We await your response by no later than April 28th.
+
+Yours Sincerely,
+Albus Dumbledore,
+Headmaster,
+Hogwarts School of WitchCraft and Wizardry
+
+x
+The List of Supplies include:- 
+
+Books,
+Broomstick,
+Wand,
+Cauldron,
+Quill
+
+*-----*-----*-----*-----*-----*
+x
+We are delighted to officially welcome you to our society of wizards and look forward to seeing you in our school!
